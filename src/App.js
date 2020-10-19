@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Link, Route, Switch } from 'react-router-dom';
+import { Link, Route, Switch} from 'react-router-dom';
 import './App.css';
 import Home from './Components/Home'
 import Shop from './Components/Shop'
